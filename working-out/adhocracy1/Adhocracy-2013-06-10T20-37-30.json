@@ -1,0 +1,266 @@
+{
+    "instance": {
+        "diskussion": {
+            "creator": "admin@adhocracy-usability1.cs.uni-duesseldorf.de", 
+            "locale": null, 
+            "adhocracy_allow_thumbnailbadges": false, 
+            "create_time": "2013-05-23T15:56:02", 
+            "adhocracy_allow_propose": true, 
+            "adhocracy_access_time": "2013-06-07T16:20:40", 
+            "adhocracy_thumbnailbadges_width": null, 
+            "adhocracy_delete_time": null, 
+            "adhocracy_milestones": false, 
+            "adhocracy_require_valid_email": false, 
+            "label": "Diskussion", 
+            "adhocracy_hide_global_categories": false, 
+            "adhocracy_thumbnailbadges_height": null, 
+            "adhocracy_css": null, 
+            "adhocracy_type": "instance", 
+            "description": "<h3>Informationen</h3>\n<i>Hilf uns dabei Demokratie zu verbessern!</i>\n\nAdhocracy HHU ist eine Beteiligungsplattform f\u00fcr Studenten und Mitarbeiter der Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf. Hier hat jeder das Recht seine eigene Meinung zur Diskussion zu stellen, um somit gemeinsam an Entscheidungen mitzugestalten. <br/>\n\n\n<h3>Referenzlinks</h3>\n<ul type=\"square\">\n\n<li class=\"hhu_knowledgebase_link\"><a rel=\"external\" href=\"http://www.uni-duesseldorf.de/\" target=\"_blank\">Universit\u00e4t D\u00fcsseldorf</a></li>\n\n<li class=\"hhu_knowledgebase_link\"><a rel=\"external\" href=\"http://www.uni-duesseldorf.de/home/studium-und-lehre-an-der-hhu/studium/pruefungen/studien-und-pruefungsordnungen.html\" target=\"_blank\">Studien- und Pr\u00fcfungsordnungen</a></li>\n\n<li class=\"hhu_knowledgebase_link\"><a rel=\"external\" href=\"http://www.ulb.hhu.de/\" target=\"_blank\">ULB D\u00fcsseldorf</a></li>\n\n<li class=\"hhu_knowledgebase_link\"><a rel=\"external\" href=\"http://www.studentenwerk-duesseldorf.de/index.html\" target=\"_blank\">Studentenwerk D\u00fcsseldorf</a></li>\n\n<li class=\"hhu_knowledgebase_link\"><a rel=\"external\" href=\"http://www.uni-duesseldorf.de/home/infocenter-hhu.html\" target=\"_blank\">Infocenter der HHU</a></li>\n</ul>", 
+            "adhocracy_required_majority": 0.66, 
+            "adhocracy_allow_index": true, 
+            "adhocracy_allow_delegate": false, 
+            "adhocracy_allow_adopt": false, 
+            "key": "diskussion", 
+            "adhocracy_default_group_id": 5, 
+            "adhocracy_use_norms": false, 
+            "frozen": false, 
+            "adhocracy_activation_delay": 7, 
+            "proposals": {
+                "8": {
+                    "adhocracy_type": "proposal", 
+                    "description": {
+                        "function": "description", 
+                        "title": "Vorlesungen, \u00dcbungen & Tutorien maximal bis 16 Uhr", 
+                        "url": "/i/diskussion/proposal/8-Vorlesungen_\u00dcbungen__Tutorien_maximal_bi", 
+                        "text": {
+                            "wiki": false, 
+                            "title": "Vorlesungen, \u00dcbungen & Tutorien maximal bis 16 Uhr", 
+                            "url": "/i/diskussion/proposal/8-Vorlesungen_\u00dcbungen__Tutorien_maximal_bi", 
+                            "text": "Es gibt Veranstaltungen die zur sp\u00e4ten Uhrzeit anfangen. Entsprechend kommt man sp\u00e4t nach Hause und man hat keine Kraft mehr sich f\u00fcr den kommenden Tag vorzubereiten.\r\n\r\nDeshalb m\u00fcssen Vorlesungen, \u00dcbungen und Tutorien maximal bis 16 Uhr gehen!", 
+                            "variant": "HEAD", 
+                            "create_time": "2013-05-24T14:57:39.769047Z", 
+                            "user": "admin", 
+                            "page_id": 9, 
+                            "id": 7
+                        }, 
+                        "creator": "admin", 
+                        "label": "Vorlesungen_\u00dcbungen__Tutorien_maximal_bis_16_Uhr", 
+                        "full_title": "Vorlesungen, \u00dcbungen & Tutorien...", 
+                        "create_time": "2013-05-24T14:57:39.759196Z", 
+                        "id": 9
+                    }, 
+                    "creator": "admin@adhocracy-usability1.cs.uni-duesseldorf.de", 
+                    "id": 8, 
+                    "title": "Vorlesungen, \u00dcbungen & Tutorien maximal bis 16 Uhr"
+                }, 
+                "12": {
+                    "adhocracy_type": "proposal", 
+                    "description": {
+                        "function": "description", 
+                        "title": "Noten m\u00fcssen abgeschafft werden", 
+                        "url": "/i/diskussion/proposal/12-Noten_m\u00fcssen_abgeschafft_werden", 
+                        "text": {
+                            "wiki": false, 
+                            "title": "Noten m\u00fcssen abgeschafft werden", 
+                            "url": "/i/diskussion/proposal/12-Noten_m\u00fcssen_abgeschafft_werden", 
+                            "text": "Es ist schwer, Leistungen mit Noten zu erfassen...\r\n\r\nFast bei jedem dritten Studenten ist es mal vorgekommen, dass man in der Pr\u00fcfung ein pl\u00f6tzliches Blackout hatte und das relevante Wissen f\u00fcr die Pr\u00fcfung in seinem Ged\u00e4chtnis nicht abrufen konnte. Desto mehr \u00e4rgert man sich dann, wenn sich dies auf die Note auswirkt, obwohl man das Wissen eigentlich hatte.\r\n\r\nAus diesem Grund soll die Pr\u00fcfungsordnung ge\u00e4ndert und die Noten abgeschafft werden.", 
+                            "variant": "HEAD", 
+                            "create_time": "2013-05-24T15:00:05.521161Z", 
+                            "user": "admin", 
+                            "page_id": 13, 
+                            "id": 9
+                        }, 
+                        "creator": "admin", 
+                        "label": "Noten_m\u00fcssen_abgeschafft_werden", 
+                        "full_title": "Noten m\u00fcssen abgeschafft werden", 
+                        "create_time": "2013-05-24T15:00:05.510515Z", 
+                        "id": 13
+                    }, 
+                    "creator": "admin@adhocracy-usability1.cs.uni-duesseldorf.de", 
+                    "id": 12, 
+                    "title": "Noten m\u00fcssen abgeschafft werden"
+                }, 
+                "4": {
+                    "adhocracy_type": "proposal", 
+                    "description": {
+                        "function": "description", 
+                        "title": "Studiengeb\u00fchren m\u00fcssen wieder eingef\u00fchrt werden", 
+                        "url": "/i/diskussion/proposal/4-Studiengeb\u00fchren_m\u00fcssen_wieder_eingef\u00fchrt", 
+                        "text": {
+                            "wiki": false, 
+                            "parent": 4, 
+                            "title": "Studiengeb\u00fchren m\u00fcssen wieder eingef\u00fchrt werden", 
+                            "url": "/i/diskussion/proposal/4-Studiengeb\u00fchren_m\u00fcssen_wieder_eingef\u00fchrt", 
+                            "text": "Seit dem Wintersemester 2011/2012 sind die Studiengeb\u00fchren in H\u00f6he von 500\u20ac an der Heinrich-Heine-Universit\u00e4t abgeschafft worden.\r\n\r\nEs ist Sinnvoll die Studiengeb\u00fchren wieder einzuf\u00fchren, um dadurch die Verbesserung der Studienqualit\u00e4t zu steigern. So kann man zus\u00e4tzliche Lehrkr\u00e4fte einstellen oder auch weitere Lernveranstaltungen f\u00fcr Studenten gestalten.", 
+                            "variant": "HEAD", 
+                            "create_time": "2013-05-24T14:56:44.423910Z", 
+                            "user": "admin", 
+                            "page_id": 5, 
+                            "id": 5
+                        }, 
+                        "creator": "admin", 
+                        "label": "Studiengeb\u00fchren_m\u00fcssen_wieder_eingef\u00fchrt_werden", 
+                        "full_title": "Studiengeb\u00fchren m\u00fcssen wieder...", 
+                        "create_time": "2013-05-24T14:51:12.287089Z", 
+                        "id": 5
+                    }, 
+                    "creator": "admin@adhocracy-usability1.cs.uni-duesseldorf.de", 
+                    "id": 4, 
+                    "title": "Studiengeb\u00fchren m\u00fcssen wieder eingef\u00fchrt werden"
+                }, 
+                "10": {
+                    "adhocracy_type": "proposal", 
+                    "description": {
+                        "function": "description", 
+                        "title": "Praxisn\u00e4here Veranstaltungen zu den Vorlesungen", 
+                        "url": "/i/diskussion/proposal/10-Praxisn\u00e4here_Veranstaltungen_zu_den_Vorl", 
+                        "text": {
+                            "wiki": false, 
+                            "title": "Praxisn\u00e4here Veranstaltungen zu den Vorlesungen", 
+                            "url": "/i/diskussion/proposal/10-Praxisn\u00e4here_Veranstaltungen_zu_den_Vorl", 
+                            "text": "Das Fachwissen der jeweiligen Vorlesungen ist im sp\u00e4teren Berufsleben von gro\u00dfer Wichtigkeit.\r\n\r\nEin Vorteil ist es f\u00fcr die meisten Studenten, wenn es praxisn\u00e4here Veranstaltungen zu den Vorlesungen existieren w\u00fcrde. So h\u00e4tten die Studenten die M\u00f6glichkeit ohne Benotung, dass Fachwissen per \"Learning by doing\" zu erlernen.\r\n\r\nPraxisn\u00e4here Veranstaltungen m\u00fcssen zu den Vorlesungen Angeboten werden!", 
+                            "variant": "HEAD", 
+                            "create_time": "2013-05-24T14:58:34.880577Z", 
+                            "user": "admin", 
+                            "page_id": 11, 
+                            "id": 8
+                        }, 
+                        "creator": "admin", 
+                        "label": "Praxisn\u00e4here_Veranstaltungen_zu_den_Vorlesungen", 
+                        "full_title": "Praxisn\u00e4here Veranstaltungen zu den...", 
+                        "create_time": "2013-05-24T14:58:34.866641Z", 
+                        "id": 11
+                    }, 
+                    "creator": "admin@adhocracy-usability1.cs.uni-duesseldorf.de", 
+                    "id": 10, 
+                    "title": "Praxisn\u00e4here Veranstaltungen zu den Vorlesungen"
+                }, 
+                "6": {
+                    "adhocracy_type": "proposal", 
+                    "description": {
+                        "function": "description", 
+                        "title": "Extra-Semester f\u00fcr die Bachelor- bzw. Masterarbeit", 
+                        "url": "/i/diskussion/proposal/6-ExtraSemester_f\u00fcr_die_Bachelor_bzw_Maste", 
+                        "text": {
+                            "wiki": false, 
+                            "title": "Extra-Semester f\u00fcr die Bachelor- bzw. Masterarbeit", 
+                            "url": "/i/diskussion/proposal/6-ExtraSemester_f\u00fcr_die_Bachelor_bzw_Maste", 
+                            "text": "Die Regelstudienzeit betr\u00e4gt f\u00fcr den Bachelorstudiengang sechs Semester und f\u00fcr den Masterstudiengang vier Semester.\r\n\r\nEin Extra-Semester f\u00fcr die Bachelorarbeit bzw. Masterarbeit w\u00fcrde sich doch sicherlich besser auf die Note der Abschlussarbeit auswirken?\r\n\r\nAus diesem Grund ist es f\u00fcr die meisten Studenten vorteilhafter, die Regelstudienzeit f\u00fcr den Bachelor- & Masterstudiengang jeweils um ein Semester zu erh\u00f6hen.", 
+                            "variant": "HEAD", 
+                            "create_time": "2013-05-24T14:57:16.191676Z", 
+                            "user": "admin", 
+                            "page_id": 7, 
+                            "id": 6
+                        }, 
+                        "creator": "admin", 
+                        "label": "ExtraSemester_f\u00fcr_die_Bachelor_bzw_Masterarbeit", 
+                        "full_title": "Extra-Semester f\u00fcr die Bachelor- bzw....", 
+                        "create_time": "2013-05-24T14:57:16.174197Z", 
+                        "id": 7
+                    }, 
+                    "creator": "admin@adhocracy-usability1.cs.uni-duesseldorf.de", 
+                    "id": 6, 
+                    "title": "Extra-Semester f\u00fcr die Bachelor- bzw. Masterarbeit"
+                }
+            }, 
+            "adhocracy_editable_comments_default": true, 
+            "adhocracy_is_authenticated": false, 
+            "adhocracy_hidden": false, 
+            "adhocracy_require_selection": false
+        }, 
+        "feedback": {
+            "creator": "admin@adhocracy-usability1.cs.uni-duesseldorf.de", 
+            "locale": null, 
+            "adhocracy_allow_thumbnailbadges": false, 
+            "create_time": "2013-05-23T15:56:02", 
+            "adhocracy_allow_propose": true, 
+            "adhocracy_access_time": "2013-06-07T16:20:40", 
+            "adhocracy_thumbnailbadges_width": null, 
+            "adhocracy_delete_time": null, 
+            "adhocracy_milestones": false, 
+            "adhocracy_require_valid_email": false, 
+            "label": "Feedback", 
+            "adhocracy_hide_global_categories": true, 
+            "adhocracy_thumbnailbadges_height": null, 
+            "adhocracy_css": null, 
+            "adhocracy_type": "instance", 
+            "description": null, 
+            "adhocracy_required_majority": 0.66, 
+            "adhocracy_allow_index": true, 
+            "adhocracy_allow_delegate": false, 
+            "adhocracy_allow_adopt": false, 
+            "key": "feedback", 
+            "adhocracy_default_group_id": 5, 
+            "adhocracy_use_norms": false, 
+            "frozen": false, 
+            "adhocracy_activation_delay": 7, 
+            "proposals": {}, 
+            "adhocracy_editable_comments_default": true, 
+            "adhocracy_is_authenticated": false, 
+            "adhocracy_hidden": false, 
+            "adhocracy_require_selection": false
+        }
+    }, 
+    "badge": {}, 
+    "user": {
+        "testperson2@mail.de": {
+            "adhocracy_reset_code": null, 
+            "bio": null, 
+            "display_name": " Testperson 2", 
+            "locale": "de_DE", 
+            "gender": null, 
+            "adhocracy_password": "62d313ca26b54db844b0c9df5e5a1bad000f5ce892a5938a795e7e40f71996062b7fee0fe4fb6f33", 
+            "adhocracy_welcome_code": null, 
+            "adhocracy_activation_code": "i__e45cfcfee4bb", 
+            "adhocracy_banned": false, 
+            "user_name": "Testperson2", 
+            "email": "testperson2@mail.de", 
+            "badges": []
+        }, 
+        "testperson1@mail.de": {
+            "adhocracy_reset_code": null, 
+            "bio": null, 
+            "display_name": " Testperson 1", 
+            "locale": "de_DE", 
+            "gender": null, 
+            "adhocracy_password": "62d313ca26b54db844b0c9df5e5a1bad000f5ce892a5938a795e7e40f71996062b7fee0fe4fb6f33", 
+            "adhocracy_welcome_code": null, 
+            "adhocracy_activation_code": "i__34354aeb7a16", 
+            "adhocracy_banned": false, 
+            "user_name": "Testperson1", 
+            "email": "testperson1@mail.de", 
+            "badges": []
+        }, 
+        "admin@adhocracy-usability1.cs.uni-duesseldorf.de": {
+            "adhocracy_reset_code": null, 
+            "bio": "", 
+            "display_name": "", 
+            "locale": "de_DE", 
+            "gender": "u", 
+            "adhocracy_password": "62d313ca26b54db844b0c9df5e5a1bad000f5ce892a5938a795e7e40f71996062b7fee0fe4fb6f33", 
+            "adhocracy_welcome_code": null, 
+            "adhocracy_activation_code": null, 
+            "adhocracy_banned": false, 
+            "user_name": "admin", 
+            "email": "admin@adhocracy-usability1.cs.uni-duesseldorf.de", 
+            "badges": []
+        }
+    }, 
+    "metadata": {
+        "version": 4, 
+        "type": "normsetting-export", 
+        "adhocracy_options": {
+            "include_user": true, 
+            "user_personal": true, 
+            "user_password": true, 
+            "format": "json_download", 
+            "include_badge": true, 
+            "_tok": "41d5b7f361b3", 
+            "include_instance_proposal": true, 
+            "include_instance_proposal_comment": true, 
+            "include_instance": true
+        }, 
+        "time": "Mon, 10 Jun 2013 20:37:30 -0000"
+    }
+}
