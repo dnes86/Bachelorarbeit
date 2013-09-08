@@ -1,0 +1,11 @@
+=====================================================
+QuickTime Player Version 10.2 (603.17)
+=====================================================
+
+Mikrofon:         Samson Meteor Mic
+
+Qualität:         Mittel
+
+Option anwählen:  Mausklicks in der Aufnahme anzeigen
+
+Format:           AAC, 44100 Hz, Stereo (L R) 
