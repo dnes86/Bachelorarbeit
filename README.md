@@ -15,7 +15,7 @@ Bachelorarbeit
  <a class="email" href="mailto:Derman.Erdogmus@uni-duesseldorf.de">Derman.Erdogmus@uni-duesseldorf.de</a> <br />
 </div>
 
-<img src="https://raw.github.com/dnes86/Bachelorarbeit/master/working-out/HHU%20Düsseldorf.png" alt="abbildung" width="100%" style="max-width:100%;">
+<img src="https://raw.github.com/dnes86/Bachelorarbeit/master/working-out/HHU%20Düsseldorf.png" alt="abbildung" width="30%" style="max-width:100%;">
 
 
 
